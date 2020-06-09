@@ -23,7 +23,7 @@ c2 = {3, 2}
 # o union não gera impacto no conjunto c1, ele gera um novo conjunto
 # "temporario" e o mostra
 print(c1.union(c2))
-print(c1.intersection(c2))  # O intersection
+print('aqui',c1.intersection(c2))  # O intersection
 
 # Para alterar o cconjunto c1 usamos update
 c1.update(c2)
