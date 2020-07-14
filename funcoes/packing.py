@@ -5,7 +5,7 @@
 def soma_3(a, b, c):
     return a + b + c
 
-# este caracter "*" gera uma tupla como resultado
+# este carácter "*" gera uma tupla como resultado
 # conhecido como * args
 
 

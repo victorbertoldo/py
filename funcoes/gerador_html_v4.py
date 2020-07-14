@@ -20,6 +20,6 @@ if __name__ == '__main__':
     print(tag_bloco(inline=True, conteudo='inline'))
     print(tag_bloco('falhou', classe='error'))
     print(tag_bloco(tag_lista('Item 1', 'Item 2'), classe='info'))
-    # Ao usar o *args em uma função não mais possivel usar parametros
+    # Ao usar o *args em uma função não mais possível usar parametros
     #  posicionais, apenas nomeados
     print(tag_bloco(tag_lista()))
