@@ -8,6 +8,7 @@ print(dir())
 a = 2
 b = 5
 b **= a
+
 print(b)
 print(dir())
 print(dir(__builtins__))
