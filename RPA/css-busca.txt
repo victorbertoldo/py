@@ -1,0 +1,8 @@
+﻿existe uma hierarquia nas paginas web:
+id,
+name,
+class,
+title,
+aria-label, 
+text(),
+href
