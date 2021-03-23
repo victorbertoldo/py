@@ -1,0 +1,35 @@
+Número,Data de criação,Assunto,Descrição da solicitação,Anexos da solicitação,Estado,Categoria,Subcategoria,Item,Serviço Indisponível,Prioridade,Local,Grupo,Técnico,Departamento,Data de vencimento,Concluída em,Contrato,Resolução,Anexos da resolução,Tarefas,Status
+35623,03/10/21,Consulta_DNIT / equipamento 2x velocidades,"Thiago, Bom dia!
+
+Assim que possível, favor disponibilizar uma planilha com os dados conforme modelo abaixo.
+
+Equipamentos: FLISD2004A00495 e FLISD2004A00497
+
+Obs.: Nº ocorrência que é possível visualizar a imagem pelo consulta sigdtf.
+
+Período processado: 05/03 a 09/03/2021",..\fileAttachments\Request\Mar2021\35623\diferenca de classificacao.xlsx,Finalizada,TI.02_Banco de Dados,2.03 Consultas,2.3.1 Nenhum,Não,Baixa,Local_TI,SGPO_Banco de Dados,Thiago Nunes Murça,Processamento,11/03/21,11/03/21,DNIT19,Solicitação atendida,..\fileAttachments\Resolution\35001_40000\35306\RESOLUTION_01_11_2021_15_48_30.html,Cadastrar Monitoramento,Resolvida
+34864,15/09/20,Cancelamento de acessos - João Paulo ,"Bom dia,
+
+ 
+
+Segue anexo formulário para cancelamento de acessos.
+
+ 
+
+Atenciosamente,
+
+ 
+
+
+
+Ana Cristina da Silva
+Analista de Administração de Pessoal
+Tel: +55 (62) 3946-8035
+e-mail: anacristina.silva@datatraffic.com.br",..\fileAttachments\ArcRequest\34001_35000\34864\FORM_067___Revisao_00_Exclusão de usuário_Vizentec.xlsx,Finalizada,TI.13_Cadastro de Usuário,13.2 Bloqueio,13.2.1 Nenhum,não,Baixa,Local,SGPO_Infraestrutura,Rodolpho Costa Stach,Gestâo de Pessoas,16/09/20,16/09/20,VIZENTEC,"FATO: Bloquear acessos de usuário e backup de conta de e-mail.
+
+CAUSA: Desligamento do colaborador
+
+AÇÕES:
+Feito o bloqueio do usuário no domínio
+Exportado email como PST pelo outlook
+Bloqueado acessos VPN",..\fileAttachments\ArcWoResolution\33001_34000\33259\consulta_1.xls,Criar VPN para neusa.souza,Resolvida
