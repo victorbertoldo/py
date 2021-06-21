@@ -4,6 +4,7 @@ import time as t
 
 browser = Chrome()
 browser.get('https://consultacnpj.com/cnpj/')
+t.sleep(1)
 browser.maximize_window()
 
 cnpjs = ["45997418000153", "72273196001090", "33000167000101", "37340278000118"]
