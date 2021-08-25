@@ -1,0 +1,1 @@
+﻿# este arquivo não precisa ter nada, ele serve pro python entender q a pasta items é um package
