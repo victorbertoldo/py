@@ -14,7 +14,7 @@ for i in range(0,900):
     # ui.click(x=3476, y=646)
 
     # Clicando na coordenadas 1x
-    # ui.click(x=3381, y=753)
+    ui.click(ui.position())
 
     ui.sleep(1)
 
